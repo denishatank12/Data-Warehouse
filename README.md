@@ -1,7 +1,5 @@
 # Pinecone + Airflow Class Project
 
-## Repo
-https://github.com/<YOUR_USERNAME>/pinecone-airflow-demo
 
 ## Steps
 1. Modified `docker-compose.yaml` to install `sentence-transformers` + `pinecone`.
